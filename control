@@ -3,10 +3,10 @@ Name: TwiStop
 Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Close Twitter app on pull-to-refresh
-        Icon: https://redentic.dev/depictions/com.redenticdev.twistop/icon.png
-        Depiction: https://redentic.dev/depictions/?p=com.redenticdev.twistop
-        SileoDepiction: https://redentic.dev/depictions/com.redenticdev.twistop/sileo.json
+Icon: https://redentic.dev/depictions/com.redenticdev.twistop/icon.png
+Depiction: https://redentic.dev/depictions/?p=com.redenticdev.twistop
+SileoDepiction: https://redentic.dev/depictions/com.redenticdev.twistop/sileo.json
 Maintainer: RedenticDev <redenticdev@gmail.com>
 Author: RedenticDev <redenticdev@gmail.com>
-Section: Tweaks
+Section: Tweaks (Requests)
 Depends: mobilesubstrate (>= 0.9.5000)
